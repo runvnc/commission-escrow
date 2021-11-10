@@ -31,7 +31,7 @@ When all of the artists have sent application calls accepting the commission, th
 
 ## Release of Funds / Return of Funds
 
-The artist(s) may release preview versions of the work and otherwise communicate to complete it.  The artists then upload the final asset to the GIF Economy website where it is stored privately. When they are finished, the Originator has an opportunity to accept the artwork. He/she may also reject it.
+The artist(s) may release preview versions of the work and otherwise communicate to complete it.  The artists then upload the final media to the GIF Economy website where it is stored privately. When they are finished, the Originator has an opportunity to accept the artwork. He/she may also reject it.
 
 If it is rejected, all funds are returned to sponsors. If accepted, the funds are distributed to the artists according to the predetermined percentages, and an asset is minted linking to the unlockable artwork on The GIF Economy website.
 
